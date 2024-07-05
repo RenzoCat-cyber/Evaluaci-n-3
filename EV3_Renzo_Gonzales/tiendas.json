@@ -1,0 +1,14 @@
+[
+    {
+        "id_tienda": 1,
+        "nombre": "Sucursal Viña del Mar"
+    },
+    {
+        "id_tienda": 2,
+        "nombre": "Sucursal Antofagasta"
+    },
+    {
+        "id_tienda": 3,
+        "nombre": "Sucursal Osorno"
+    }
+]

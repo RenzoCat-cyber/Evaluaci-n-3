@@ -1,0 +1,122 @@
+[
+    {
+        "id_vendedor": "V001",
+        "nombre": "Leonardo",
+        "apellido": "Da Vinci",
+        "edad": 24,
+        "sueldo_base": 450000,
+        "id_tienda": 1
+    },
+    {
+        "id_vendedor": "V002",
+        "nombre": "Marie",
+        "apellido": "Curie",
+        "edad": 45,
+        "sueldo_base": 500000,
+        "id_tienda": 1
+    },
+    {
+        "id_vendedor": "V003",
+        "nombre": "Albert",
+        "apellido": "Einstein",
+        "edad": 30,
+        "sueldo_base": 1000000,
+        "id_tienda": 1
+    },
+    {
+        "id_vendedor": "V004",
+        "nombre": "Isaac",
+        "apellido": "Newton",
+        "edad": 29,
+        "sueldo_base": 1500000,
+        "id_tienda": 2
+    },
+    {
+        "id_vendedor": "V005",
+        "nombre": "Galileo",
+        "apellido": "Galilei",
+        "edad": 35,
+        "sueldo_base": 750000,
+        "id_tienda": 2
+    },
+    {
+        "id_vendedor": "V006",
+        "nombre": "Nikola",
+        "apellido": "Tesla",
+        "edad": 40,
+        "sueldo_base": 820000,
+        "id_tienda": 2
+    },
+    {
+        "id_vendedor": "V007",
+        "nombre": "Ada",
+        "apellido": "Lovelace",
+        "edad": 27,
+        "sueldo_base": 630000,
+        "id_tienda": 3
+    },
+    {
+        "id_vendedor": "V008",
+        "nombre": "Cleopatra",
+        "apellido": "Philopator",
+        "edad": 33,
+        "sueldo_base": 910000,
+        "id_tienda": 3
+    },
+    {
+        "id_vendedor": "V009",
+        "nombre": "Alexander",
+        "apellido": "Macedon",
+        "edad": 26,
+        "sueldo_base": 470000,
+        "id_tienda": 3
+    },
+    {
+        "id_vendedor": "V010",
+        "nombre": "Winston",
+        "apellido": "Churchill",
+        "edad": 38,
+        "sueldo_base": 980000,
+        "id_tienda": 1
+    },
+    {
+        "id_vendedor": "V011",
+        "nombre": "Florence",
+        "apellido": "Nightingale",
+        "edad": 31,
+        "sueldo_base": 770000,
+        "id_tienda": 1
+    },
+    {
+        "id_vendedor": "V012",
+        "nombre": "Joan",
+        "apellido": "Of Arc",
+        "edad": 29,
+        "sueldo_base": 650000,
+        "id_tienda": 2
+    },
+    {
+        "id_vendedor": "V013",
+        "nombre": "George",
+        "apellido": "Washington",
+        "edad": 37,
+        "sueldo_base": 920000,
+        "id_tienda": 2
+    },
+    {
+        "id_vendedor": "V014",
+        "nombre": "Martin",
+        "apellido": "Luther King",
+        "edad": 44,
+        "sueldo_base": 1050000,
+        "id_tienda": 3
+    },
+    {
+        "id_vendedor": "V015",
+        "nombre": "Mahatma",
+        "apellido": "Gandhi",
+        "edad": 28,
+        "sueldo_base": 480000,
+        "id_tienda": 3
+    }
+]

@@ -1,0 +1,18 @@
+{
+    "ventas": [
+        {
+            "id_venta": "1000001",
+            "id_vendedor": "V001",
+			"id_tienda": 1,
+            "fecha": "04-07-2024",
+            "total_venta": 50500
+        },
+        {
+            "id_venta": "1000002",
+            "id_vendedor": "V002",
+			"id_tienda": 2,
+            "fecha": "04-07-2024",
+            "total_venta": 115000
+        }
+    ]
+}
